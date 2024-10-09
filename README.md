@@ -1,9 +1,10 @@
-# Your Project's Title...
-Your project's description...
+# Project's aem-edge-delivery-services
+
+Sample project implementation of EDS.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-franklin-site--ftadashi.aem.page/
+- Live: https://main--aem-franklin-site--ftadashi.aem.live/
 
 ## Installation
 
