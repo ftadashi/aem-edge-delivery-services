@@ -2,6 +2,8 @@
 
 Sample project implementation of EDS.
 
+[Getting Started – Developer Tutorial](ftadashi/aem-franklin-site](https://www.aem.live/developer/tutorial))
+
 ## Environments
 - Preview: https://main--aem-franklin-site--ftadashi.aem.page/
 - Live: https://main--aem-franklin-site--ftadashi.aem.live/
